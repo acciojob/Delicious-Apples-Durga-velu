@@ -41,7 +41,8 @@ body{
     width:450px;    
     display: inline;
     margin-left:50px;    
-    margin:50px;    
+    margin:50px; 
+	color:white;
 }
 
 .photo-album{
