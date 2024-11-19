@@ -41,8 +41,8 @@ body{
     width:450px;    
     display: inline;
     margin-left:50px;    
-    margin:50px; 
-	color:white;
+    margin:50px;  
+    color:white;  
 }
 
 .photo-album{
@@ -68,9 +68,9 @@ body{
 .product__info{
     background-color: white;
     display:inline-block;
-    width:700px;
-    height:700px;
-    margin-left: 100px;
+    width:600px;
+    height:600px;
+    margin-left: 80px;
 }
 .title{
     display: inline-block;
@@ -81,7 +81,7 @@ body{
     padding-left: 70px;
     width:250px;
     height:50px;
-    margin-left: 200px;
+    margin-left: 150px;
     
 
 }
@@ -91,7 +91,7 @@ body{
 }
 .price{
     display: inline-block;
-    margin-left: 270px;
+    margin-left: 225px;
     width:200px;
     height: 30px;
     font-size: 18px;
@@ -103,7 +103,7 @@ body{
     font-size: 55px;
 } 
 .variant h3{
-     margin-left:220px;
+     margin-left:175px;
      padding-left: 50px;
      padding-top: 30px;
     width:180px;
@@ -118,24 +118,25 @@ body{
 .variant img{
     width:20px;
     height: 20px;
-    margin-left: 300px;
+    margin-left: 270px;
     padding-top: 12px;
 }
 .description h5{
     color:gray;
-    margin-left: 40px;
+   
 }
 .description{
     padding: 30px;
-    margin-left:200px;
+    margin-left:195px;
     width:400px;
     height:100px;
 }
 .description ul li{
     list-style-position: inside;
-    margin-left: 80px;
+    margin-left: 50px;
     padding-top: 5px;
 }
+
 .description button{
     background-color: red;
     color: white;
@@ -145,12 +146,8 @@ body{
     width:150px;
     height: 40px;
     font-size: 15px;
-    margin-left: 40px;
+    margin-left: 7px;
 }
-
-
-
-
 
 
 
