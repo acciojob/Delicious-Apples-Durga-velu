@@ -1,1 +1,132 @@
 /* your code here */
+*{
+	padding:0;
+	margin:0;
+}
+body{
+    background-color: green;
+}
+.product{
+    display:inline-block;
+}
+.photo-main{
+    display: inline-block;
+    width:450px;
+    height: 150px;
+
+}
+.photo-container{
+    display:inline-block;
+    background-color: greenyellow;
+    width:300px;
+    height:400px;
+}
+.product__photo{
+    display: inline-block;
+}
+.controls{
+    display: inline;
+    width:400px;  
+}
+.controls i{
+    width:450px;    
+    display: inline;
+    margin-left:100px;    
+    margin:50px;    
+}
+
+.photo-album{
+    background-color: white;
+    display:inline-block;
+
+}
+.photo-album ul li{
+    list-style-type: none;
+    display: inline-block;
+}
+.product__info{
+    background-color: white;
+    display:inline-block;
+    width:700px;
+    height:700px;
+    margin-left: 100px;
+}
+.title{
+    display: inline-block;
+    flex-direction: column;
+    justify-content:center;
+    margin: 10px;
+    padding-top:100px;
+    padding-left: 70px;
+    width:250px;
+    height:50px;
+    margin-left: 200px;
+    
+
+}
+.title span{
+    color:gray;
+    font-size: 10px;
+}
+.price{
+    display: inline-block;
+    margin-left: 270px;
+    width:200px;
+    height: 30px;
+    font-size: 18px;
+    color:red;
+    padding-top: 20px;
+    
+}
+.price span{
+    font-size: 55px;
+} 
+.variant h3{
+     margin-left:220px;
+     padding-left: 50px;
+     padding-top: 30px;
+    width:180px;
+    color:gray;
+    font-size: 10px;
+}
+.variant ul li{
+    list-style-type: none;
+    display:inline-block;
+    width: 20px;
+}
+.variant img{
+    width:20px;
+    height: 20px;
+    margin-left: 300px;
+    padding-top: 12px;
+}
+.description h5{
+    color:gray;
+    margin-left: 40px;
+}
+.description{
+    padding: 30px;
+    margin-left:200px;
+    width:400px;
+    height:100px;
+}
+.description ul li{
+    list-style-position: inside;
+    margin-left: 80px;
+    padding-top: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
